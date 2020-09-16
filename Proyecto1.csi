@@ -1,0 +1,27 @@
+[History]
+1=#P0#=mb	#P1#=Command1_Click	#P2#=Proyecto1/Form1/Command1_Click	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20200916170815	#P7#=0	#P8#=3	.
+2=#P0#=mb	#P1#=Check2_Click	#P2#=Proyecto1/Form1/Check2_Click	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20200916162510	#P7#=0	#P8#=3	.
+3=#P0#=mb	#P1#=List1_Click	#P2#=Proyecto1/Form1/List1_Click	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20200916170732	#P7#=0	#P8#=4	.
+4=#P0#=mb	#P1#=Form_Load	#P2#=Proyecto1/Form1/Form_Load	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20200916170651	#P7#=0	#P8#=7	.
+5=#P0#=mb	#P1#=axbItem1_MouseMove	#P2#=Proyecto1/Form1/axbItem1_MouseMove	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20200916152736	#P7#=0	#P8#=2	.
+6=#P0#=mb	#P1#=axbItem1_CrossClick	#P2#=Proyecto1/Form1/axbItem1_CrossClick	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20200916151827	#P7#=0	#P8#=1	.
+7=#P0#=mb	#P1#=UserControl_MouseUp	#P2#=Proyecto1/AxGPanel/UserControl_MouseUp	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20200916161807	#P7#=0	#P8#=1	.
+8=#P0#=mb	#P1#=UserControl_MouseMove	#P2#=Proyecto1/AxGPanel/UserControl_MouseMove	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20200916154000	#P7#=0	#P8#=1	.
+9=#P0#=mb	#P1#=Check1_Click	#P2#=Proyecto1/Form1/Check1_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20200916170715	#P7#=0	#P8#=4	.
+10=#P0#=mb	#P1#=Drawcross	#P2#=Proyecto1/AxGPanel/Drawcross	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20200916154057	#P7#=0	#P8#=39	.
+11=#P0#=mb	#P1#=CrossVisible	#P2#=Proyecto1/AxGPanel/CrossVisible [Get]	#P3#=	#P4#=	#P5#=MembProperty	#P6#=20200916104229	#P7#=0	#P8#=0	.
+12=#P0#=mb	#P1#=CornerCurve	#P2#=Proyecto1/AxGPanel/CornerCurve [Let]	#P3#=	#P4#=	#P5#=MembProperty	#P6#=20200916094906	#P7#=0	#P8#=1	.
+13=#P0#=mb	#P1#=Refresh	#P2#=Proyecto1/AxGPanel/Refresh	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20200916151204	#P7#=0	#P8#=2	.
+14=#P0#=mb	#P1#=Draw	#P2#=Proyecto1/AxGPanel/Draw	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20200916154323	#P7#=0	#P8#=17	.
+15=#P0#=mb	#P1#=gRoundRect	#P2#=Proyecto1/AxGPanel/gRoundRect	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20200916104600	#P7#=0	#P8#=-1	.
+16=#P0#=mb	#P1#=UserControl_ReadProperties	#P2#=Proyecto1/AxGPanel/UserControl_ReadProperties	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20200916131604	#P7#=0	#P8#=9	.
+17=#P0#=mb	#P1#=UserControl_WriteProperties	#P2#=Proyecto1/AxGPanel/UserControl_WriteProperties	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20200916131625	#P7#=0	#P8#=13	.
+18=#P0#=mb	#P1#=Enabled	#P2#=Proyecto1/AxGPanel/Enabled [Get]	#P3#=	#P4#=	#P5#=MembProperty	#P6#=20200818100110	#P7#=0	#P8#=-1	.
+19=#P0#=mb	#P1#=UserControl_Initialize	#P2#=Proyecto1/AxGPanel/UserControl_Initialize	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20200916151759	#P7#=0	#P8#=1	.
+20=#P0#=mb	#P1#=BorderWidth	#P2#=Proyecto1/AxGPanel/BorderWidth [Get]	#P3#=	#P4#=	#P5#=MembProperty	#P6#=20200817230711	#P7#=0	#P8#=1	.
+21=#P0#=mb	#P1#=BorderWidth	#P2#=Proyecto1/AxGPanel/BorderWidth [Let]	#P3#=	#P4#=	#P5#=MembProperty	#P6#=20200817230707	#P7#=0	#P8#=3	.
+22=#P0#=mb	#P1#=GetWindowsDPI	#P2#=Proyecto1/AxGPanel/GetWindowsDPI	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20200817224728	#P7#=0	#P8#=6	.
+23=#P0#=mb	#P1#=TerminateGDI	#P2#=Proyecto1/AxGPanel/TerminateGDI	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20200817224417	#P7#=0	#P8#=1	.
+24=#P0#=mb	#P1#=InitGDI	#P2#=Proyecto1/AxGPanel/InitGDI	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20200817223039	#P7#=0	#P8#=-1	.
+25=#P0#=mb	#P1#=Color1	#P2#=Proyecto1/AxGPanel/Color1 [Get]	#P3#=	#P4#=	#P5#=MembProperty	#P6#=20200817222804	#P7#=0	#P8#=0	.
+26=#P0#=mb	#P1#=UserControl_InitProperties	#P2#=Proyecto1/AxGPanel/UserControl_InitProperties	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20200916162056	#P7#=0	#P8#=1	.
